@@ -1,1 +1,64 @@
+Descripción:
 
+La actividad consiste en la creación colectiva de un documento narrativo digital utilizando GitHub como plataforma de gestión. Los estudiantes simularán un entorno de desarrollo real donde un "Líder de Proyecto" mantiene la versión estable, mientras que los "Desarrolladores" proponen cambios incrementales o alternativos a través de ramas independientes.
+
+
+
+La dinámica se divide en tres actos:
+
+Aislamiento: Trabajo en ramas individuales para evitar la sobrescritura de datos.
+Socialización: Presentación de cambios mediante Pull Requests (justificación de la contribución).
+Integración: Toma de decisiones grupal para consolidar la versión final del documento.
+
+
+Objetivos Pedagógicos:
+
+Al finalizar la actividad, el estudiante será capaz de:
+
+
+
+Comprender la diferencia entre un almacenamiento lineal (tipo Google Drive/Dropbox) y un sistema de control de versiones distribuido.
+Conceptualizar el flujo de trabajo básico de GitHub (Repositorio, Rama, Commit, Pull Request y Merge).
+Identificar la utilidad de las "Ramificaciones" (Branching) como entornos seguros para la experimentación sin afectar el producto principal.
+Experimentar la resolución de conflictos de manera lógica, entendiendo la colaboración como un proceso de revisión por pares.
+
+
+Instrucciones:
+
+Fase 1: Preparación. 
+
+Deben formar grupos de 3 o 4 personas.
+Una sola persona por grupo (el "Líder") cree un repositorio en su cuenta de GitHub llamado cuento-colaborativo.
+El Líder debe añadir a sus compañeros como "Collaborators" (en Settings > Collaborators).
+
+
+Fase 2: Inicio - Main Branch
+
+Acción: El Líder crea un archivo nuevo llamado historia.md y escribe la primera frase (ej: "Había una vez un robot que quería aprender a cocinar...").
+Concepto: Al darle a "Commit changes", deben entender que acaban de tomar una foto del estado actual del proyecto. Es su punto de partida seguro.
+
+
+Fase 3: Caminos Separados - Branching.
+
+Acción: Cada integrante del grupo (que no sea el Líder) debe ir al botón que dice "main" y escribir un nombre nuevo (ej: final-suspenso o final-comedia) para crear una Rama (Branch).
+En su propia rama, cada alumno edita el archivo historia.md y añade un párrafo según el género que eligieron.
+Los alumnos deben entender que están trabajando en una "rama paralela". Nada de lo que hagan aquí dañará la historia original del Líder todavía.
+
+
+Fase 4: La propuesta - Pull Request.
+
+Acción: Cada alumno hace clic en "Compare & pull request". Deben escribir un mensaje explicando por qué su final/desarrollo de historia es el mejor.
+Concepto: El Pull Request es pedir permiso. "Oye, equipo, tengo una mejora, ¿la revisan?".
+
+
+Fase 5: La Fusión (Merge).
+
+Acción: El grupo debe reunirse frente a la pantalla del Líder. El Líder revisa las propuestas y decide cuál aceptar.
+Conflicto Voluntario: Si dos alumnos editaron la misma línea, GitHub les mostrará un aviso en rojo. Es importante que lleguen de alguna manera a este punto! No se asusten, solamente hay que elegir manualmente qué contenido se queda.
+Concepto: Al dar "Merge", las ideas de las ramas paralelos regresan a la realidad principal.
+
+
+Preguntas de Reflexión:
+
+¿Qué pasaría si borramos todo por error en la rama principal?
+¿Por qué es mejor usar ramas que pasarse un archivo de Word por correo?
