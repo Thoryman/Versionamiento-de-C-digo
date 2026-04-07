@@ -1,1 +1,1 @@
-Había una vez un cangrejito que se llamaba Pepito porque vivía en Rosarito.
+Había una vez un cangrejito que se llamaba Pepito que vivía en Rosarito.
