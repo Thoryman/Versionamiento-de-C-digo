@@ -1,1 +1,1 @@
-Había una vez un cangrejo tan pequeño, que sus amigos le decían cangrejito.
+Había una vez un cangrejito que se llamaba Pepito porque vivía en Rosarito. 
